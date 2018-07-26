@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SwipeAfte</string>
+    <string-array name="countries">
+        <item>Kenya</item>
+        <item>Uganda</item>
+        <item>Tanzania</item>
+        <item>Sudan</item>
+        <item>Zimbabwe</item>
+        <item>Morocco</item>
+
+
+    </string-array>
+</resources>
